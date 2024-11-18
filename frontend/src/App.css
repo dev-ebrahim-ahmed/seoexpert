@@ -1,0 +1,12 @@
+li {
+    list-style-type: square;
+}
+.heading {
+    font-size: 40px;
+    font-family: serif;
+    text-shadow: 2px 3px 3px wheat;
+}
+h2 {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
